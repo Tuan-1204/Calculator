@@ -55,9 +55,17 @@ button {
   cursor: pointer;
   box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1);
 }
-
+/* nút bằng */
 .equalBtn {
   background: linear-gradient(45deg, #ff6a00, #ee0979);
   color: #ffffff;
   box-shadow: 0px 3px 15px rgba(238, 9, 121, 0.5);
+}
+
+/* nút tính toán */
+.operatorBtn {
+  /* màu xanh lá cây */
+  background: linear-gradient(45deg, #00c9ff, #92fe9d);
+  color: #000000;
+  box-shadow: 0px 3px 15px rgba(146, 254, 157, 0.5);
 }
