@@ -55,3 +55,9 @@ button {
   cursor: pointer;
   box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1);
 }
+
+.equalBtn {
+  background: linear-gradient(45deg, #ff6a00, #ee0979);
+  color: #ffffff;
+  box-shadow: 0px 3px 15px rgba(238, 9, 121, 0.5);
+}
